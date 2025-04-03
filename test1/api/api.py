@@ -33,7 +33,7 @@ def get_data(cui):
     cleaned_data = replace_string_to_none(response.json())
     db_message = save_data_to_db(cleaned_data)
     message = {"cui":cui, 'db_message':db_message} # cleaned_data['found'][0]['date_generale']:dict.get('cui')
-    return message, cleaned_data
+    return message
 
 if __name__ == '__main__':
     # uvicorn.run(app)
