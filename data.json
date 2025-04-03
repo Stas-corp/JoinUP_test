@@ -1,0 +1,83 @@
+{
+    "found": [
+        {
+            "date_generale": {
+                "data": "2025-04-02",
+                "cui": 17058074,
+                "denumire": "CONTINENTAL ALL BUSINESS SRL",
+                "adresa": "MUNICIPIUL BUCUREŞTI, SECTOR 4, STR. IZVORUL TROTUSULUI, NR.3, BL.D14, SC.3, ET.P, AP.31",
+                "telefon": "0722647375",
+                "fax": "",
+                "codPostal": "40884",
+                "act": "",
+                "stare_inregistrare": "INREGISTRAT din data 20.12.2004",
+                "data_inreg_Reg_RO_e_Factura": "",
+                "organFiscalCompetent": "Administraţia Sector 4 a Finanţelor Publice",
+                "forma_de_proprietate": "PROPR.PRIVATA-CAPITAL PRIVAT AUTOHTON",
+                "forma_organizare": "PERSOANA JURIDICA",
+                "forma_juridica": "SOCIETATE COMERCIALĂ CU RĂSPUNDERE LIMITATĂ",
+                "statusRO_e_Factura": false,
+                "data_inregistrare": "2004-12-20",
+                "nrRegCom": "J40/21330/2004",
+                "cod_CAEN": "7912",
+                "iban": ""
+            },
+            "inregistrare_scop_Tva": {
+                "scpTVA": true,
+                "perioade_TVA": [
+                    {
+                        "data_inceput_ScpTVA": "2005-01-18",
+                        "data_sfarsit_ScpTVA": "",
+                        "data_anul_imp_ScpTVA": "",
+                        "mesaj_ScpTVA": ""
+                    }
+                ]
+            },
+            "inregistrare_RTVAI": {
+                "dataActualizareTvaInc": "2021-01-25",
+                "dataPublicareTvaInc": "2021-01-26",
+                "dataInceputTvaInc": "2021-04-01",
+                "dataSfarsitTvaInc": "",
+                "tipActTvaInc": "Inregistrare",
+                "statusTvaIncasare": true
+            },
+            "stare_inactiv": {
+                "dataInactivare": "",
+                "dataReactivare": "",
+                "dataPublicare": "",
+                "dataRadiere": "",
+                "statusInactivi": false
+            },
+            "inregistrare_SplitTVA": {
+                "dataInceputSplitTVA": "",
+                "dataAnulareSplitTVA": "",
+                "statusSplitTVA": false
+            },
+            "adresa_sediu_social": {
+                "sdenumire_Localitate": "Sector 4 Mun. Bucureşti",
+                "sdenumire_Strada": "Str. Izvorul Trotuşului",
+                "snumar_Strada": "3",
+                "scod_Localitate": "4",
+                "sdenumire_Judet": "MUNICIPIUL BUCUREŞTI",
+                "scod_Judet": "40",
+                "scod_JudetAuto": "B",
+                "sdetalii_Adresa": "",
+                "scod_Postal": "40884",
+                "stara": ""
+            },
+            "adresa_domiciliu_fiscal": {
+                "ddenumire_Localitate": "Sector 4 Mun. Bucureşti",
+                "ddenumire_Strada": "Str. Izvorul Trotusului",
+                "dnumar_Strada": "3",
+                "dcod_Localitate": "4",
+                "ddenumire_Judet": "MUNICIPIUL BUCUREŞTI",
+                "dcod_Judet": "40",
+                "dcod_JudetAuto": "B",
+                "ddetalii_Adresa": "",
+                "dcod_Postal": "40884",
+                "dtara": ""
+            }
+        }
+    ],
+    "notFound": []
+}
